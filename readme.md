@@ -1,5 +1,5 @@
-Electricty prices for EE using elerings open API, the script refreshes it self every 15min to keep everything up to date.
+Electricty prices for EE using elering's open API, the script refreshes it self every 15min to keep everything up to date.
 
-Make sure you install webview: pip install pywebview
+Make sure you install python webview: pip install pywebview
 
 Run the script as normal
